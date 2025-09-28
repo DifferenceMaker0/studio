@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/custom-pages-sitemap-0.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/artists-sitemap-0.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/albums-sitemap-0.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/tracks-sitemap-0.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/playlists-sitemap-0.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/genres-sitemap-0.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/users-sitemap-0.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://collabstudio.online/studio/storage/sitemaps/static-urls-sitemap.xml</loc>
+		<lastmod>2025-04-02T08:12:49+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
